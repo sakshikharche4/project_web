@@ -1,11 +1,5 @@
 'use strict'
-// console.log(document.querySelector('.message').textContent)
-//  document.querySelector('.message').textContent = "correct number"
-//  console.log(document.querySelector('.message').textContent)
-//  document.querySelector('.number').textContent = 12;
-//  document.querySelector('.score').textContent = 19;
-//  //document.querySelector('.guess').value = 16;
-//  console.log(document.querySelector('.guess').value);
+
 let secretNumber= Math.trunc(Math.random()*20)+1
 let score = 20;
  
